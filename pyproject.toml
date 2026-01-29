@@ -8,7 +8,7 @@ dynamic = ["version"]
 description = "ADMET-AI"
 readme = "README.md"
 requires-python = ">=3.10,<3.13"
-license = { text = "MIT" }
+license = "MIT"
 license-files = [ "LICENSE.txt" ]
 authors = [
     { name = "Kyle Swanson", email = "swansonk.14@gmail.com" }
